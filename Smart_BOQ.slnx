@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="SmartBOQ_Application/SmartBOQ_Application.csproj" />
-  <Project Path="SmartBOQ_Domain/SmartBOQ_Domain.csproj" />
-  <Project Path="SmartBOQ_Infrastructure/SmartBOQ_Infrastructure.csproj" />
-  <Project Path="Smart_BOQ/Smart_BOQ_UI.csproj" />
+  <Project Path="SmartBOQ_Application/SmartBOQ_Application.csproj" Id="e73282b6-ee24-42cb-b1e6-878a636369ff" />
+  <Project Path="SmartBOQ_Domain/SmartBOQ_Domain.csproj" Id="e8b49b7d-2991-4af6-956d-03f1ee7cabd7" />
+  <Project Path="SmartBOQ_Infrastructure/SmartBOQ_Infrastructure.csproj" Id="589cacf5-fa6f-4486-99f3-6f59e0e06305" />
+  <Project Path="Smart_BOQ/Smart_BOQ_UI.csproj" Id="4beaedd5-3c97-4eb8-9f79-5b2f2035c0fc" />
 </Solution>

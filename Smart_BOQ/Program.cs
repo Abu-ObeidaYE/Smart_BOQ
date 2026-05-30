@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Smart_BOQ.Views.AccountsAndSubscriptions;
 
 namespace Smart_BOQ
 {
@@ -16,7 +17,7 @@ namespace Smart_BOQ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LoginForm());
         }
     }
 }
